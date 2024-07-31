@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Did Dog",
+  "author": "Royal Katsic",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.3",
